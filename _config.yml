@@ -1,3 +1,5 @@
 title: Raids
 description: Guides available
-theme: jekyll-materialdocs
+remote_theme: chromatical/jekyll-materialdocs
+plugins:
+- jekyll-remote-theme 

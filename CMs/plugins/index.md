@@ -1,3 +1,8 @@
+---
+layout: default
+title: Plugins
+---
+
 # Xinck's plugin copy/pasta
 
 ## Required Plugins
@@ -62,6 +67,7 @@ purple sweets tracker
   chest
     outline
     chest 1:
+
     ``` shell
     Bandos godsword, Salve amulet(ei), Stamina potion(4) , Infernal pickaxe, Dragon pickaxe, Crystal Pickaxe, Black chinchompa, Red chinchompa, Chinchompa, Zamorak godsword, Avernic Defender, Avernic Defender (l), Tonalztics of Ralos, Bandos godsword (or), Tonalztics of ralos, Zamorak godsword (or), Dragon Claws
     ```

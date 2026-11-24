@@ -12,7 +12,7 @@ title: Home
     <h2>Tob</h2>
   </a>
 
-  <a class="category-card" href="{{ '/CM/' | relative_url }}">
+  <a class="category-card" href="{{ '/CMs/' | relative_url }}">
     <!-- <div class="card-icon">📁</div> -->
     <h2>CM</h2>
   </a>

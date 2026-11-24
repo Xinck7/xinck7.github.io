@@ -3,7 +3,7 @@ layout: default
 title: Plugins
 ---
 
-# Xinck's plugin copy/pasta
+# Xinck plugin copy/pasta
 
 ## Required Plugins
 

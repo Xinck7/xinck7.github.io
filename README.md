@@ -1,2 +1,2 @@
-# xinck7.github.io
-:shruggylol:
+# Shruggylol Procedures
+POC for vintage guides

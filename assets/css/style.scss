@@ -2,7 +2,7 @@
 ---
 ---
 
-@import "minima";
+@import "{{ site.theme }}";
 
 .card-grid {
   display: grid;
